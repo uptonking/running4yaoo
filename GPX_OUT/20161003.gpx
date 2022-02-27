@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Paul Pavillon - https://nexporter.bullrox.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+	<trk>
+		<name><![CDATA[RUN 2016-10-03T15:17:22.000Z]]></name>
+		<trkseg>
+			<trkpt lat="30.50721195" lon="114.39302441">
+				<ele>41.80070731820722</ele>
+				<time>2016-10-03T15:17:22.000Z</time>
+			</trkpt>
+			<trkpt lat="30.50726282" lon="114.39293676">
+				<ele>28.647932984253366</ele>
+				<time>2016-10-03T15:25:00.302Z</time>
+			</trkpt>
+			<trkpt lat="30.50732112" lon="114.39285117">
+				<ele>32.36866185845991</ele>
+				<time>2016-10-03T15:32:38.605Z</time>
+			</trkpt>
+			<trkpt lat="30.50735765" lon="114.39273763">
+				<ele>30.618753411194284</ele>
+				<time>2016-10-03T15:40:16.907Z</time>
+			</trkpt>
+			<trkpt lat="30.50735765" lon="114.39273763">
+				<ele>34.00931356134077</ele>
+				<time>2016-10-03T15:47:55.210Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

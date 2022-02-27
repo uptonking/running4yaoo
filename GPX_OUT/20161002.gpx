@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Paul Pavillon - https://nexporter.bullrox.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+	<trk>
+		<name><![CDATA[RUN 2016-10-02T14:59:59.000Z]]></name>
+		<trkseg>
+			<trkpt lat="30.51204384" lon="114.38723589">
+				<ele>15.239949675777831</ele>
+				<time>2016-10-02T14:59:59.000Z</time>
+			</trkpt>
+			<trkpt lat="30.51211466" lon="114.38715907">
+				<ele>12.788040059188285</ele>
+				<time>2016-10-02T15:03:03.351Z</time>
+			</trkpt>
+			<trkpt lat="30.51218537" lon="114.38706646">
+				<ele>13.935801523307243</ele>
+				<time>2016-10-02T15:06:07.702Z</time>
+			</trkpt>
+			<trkpt lat="30.51226043" lon="114.38700253">
+				<ele>12.759599583724418</ele>
+				<time>2016-10-02T15:09:12.053Z</time>
+			</trkpt>
+			<trkpt lat="30.51233635" lon="114.38694366">
+				<ele>18.19486417112676</ele>
+				<time>2016-10-02T15:12:16.404Z</time>
+			</trkpt>
+			<trkpt lat="30.51245235" lon="114.38689084">
+				<ele>15.523120599368491</ele>
+				<time>2016-10-02T15:15:20.756Z</time>
+			</trkpt>
+			<trkpt lat="30.51255296" lon="114.38682364">
+				<ele>12.8181079798731</ele>
+				<time>2016-10-02T15:18:25.107Z</time>
+			</trkpt>
+			<trkpt lat="30.51263313" lon="114.38675191">
+				<ele>14.885177845636287</ele>
+				<time>2016-10-02T15:21:29.458Z</time>
+			</trkpt>
+			<trkpt lat="30.51270467" lon="114.38666388">
+				<ele>19.241995947936452</ele>
+				<time>2016-10-02T15:24:33.809Z</time>
+			</trkpt>
+			<trkpt lat="30.51271338" lon="114.38655567">
+				<ele>15.581918435672202</ele>
+				<time>2016-10-02T15:27:38.161Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

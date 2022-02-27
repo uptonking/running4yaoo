@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" creator="Paul Pavillon - https://nexporter.bullrox.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+	<trk>
+		<name><![CDATA[RUN 2016-10-08T14:27:27.000Z]]></name>
+		<trkseg>
+			<trkpt lat="30.50838188" lon="114.39229166">
+				<ele>23.48247473618075</ele>
+				<time>2016-10-08T14:27:27.000Z</time>
+			</trkpt>
+			<trkpt lat="30.50848041" lon="114.3923269">
+				<ele>23.48247473618075</ele>
+				<time>2016-10-08T14:27:32.857Z</time>
+			</trkpt>
+			<trkpt lat="30.50857689" lon="114.39232001">
+				<time>2016-10-08T14:27:38.714Z</time>
+			</trkpt>
+			<trkpt lat="30.50857689" lon="114.39232001">
+				<ele>23.74966178020522</ele>
+				<time>2016-10-08T14:27:44.571Z</time>
+			</trkpt>
+			<trkpt lat="30.508675" lon="114.39232217">
+				<time>2016-10-08T14:27:50.428Z</time>
+			</trkpt>
+			<trkpt lat="30.508675" lon="114.39232217">
+				<ele>23.3819276013045</ele>
+				<time>2016-10-08T14:27:56.285Z</time>
+			</trkpt>
+			<trkpt lat="30.5087461" lon="114.39224714">
+				<time>2016-10-08T14:28:02.142Z</time>
+			</trkpt>
+			<trkpt lat="30.50875932" lon="114.39214331">
+				<ele>23.272079340424984</ele>
+				<time>2016-10-08T14:28:07.999Z</time>
+			</trkpt>
+			<trkpt lat="30.50883729" lon="114.39208771">
+				<time>2016-10-08T14:28:13.856Z</time>
+			</trkpt>
+			<trkpt lat="30.50883729" lon="114.39208771">
+				<ele>23.1079054393439</ele>
+				<time>2016-10-08T14:28:19.713Z</time>
+			</trkpt>
+			<trkpt lat="30.50888224" lon="114.39199318">
+				<ele>23.06358569046542</ele>
+				<time>2016-10-08T14:28:25.570Z</time>
+			</trkpt>
+			<trkpt lat="30.50895263" lon="114.39188046">
+				<time>2016-10-08T14:28:31.427Z</time>
+			</trkpt>
+			<trkpt lat="30.50901417" lon="114.39177246">
+				<ele>22.97818725487277</ele>
+				<time>2016-10-08T14:28:37.284Z</time>
+			</trkpt>
+			<trkpt lat="30.50901417" lon="114.39177246">
+				<time>2016-10-08T14:28:43.141Z</time>
+			</trkpt>
+			<trkpt lat="30.50903835" lon="114.39165966">
+				<ele>22.711990169492214</ele>
+				<time>2016-10-08T14:28:48.999Z</time>
+			</trkpt>
+			<trkpt lat="30.50903002" lon="114.39154685">
+				<time>2016-10-08T14:28:54.856Z</time>
+			</trkpt>
+			<trkpt lat="30.50907282" lon="114.39142503">
+				<ele>22.76505201241061</ele>
+				<time>2016-10-08T14:29:00.713Z</time>
+			</trkpt>
+			<trkpt lat="30.50907282" lon="114.39142503">
+				<time>2016-10-08T14:29:06.570Z</time>
+			</trkpt>
+			<trkpt lat="30.50912279" lon="114.39132083">
+				<ele>22.642049364057034</ele>
+				<time>2016-10-08T14:29:12.427Z</time>
+			</trkpt>
+			<trkpt lat="30.50918701" lon="114.39121902">
+				<time>2016-10-08T14:29:18.284Z</time>
+			</trkpt>
+			<trkpt lat="30.50926113" lon="114.39110583">
+				<ele>22.710363320317715</ele>
+				<time>2016-10-08T14:29:24.141Z</time>
+			</trkpt>
+			<trkpt lat="30.50930755" lon="114.39099776">
+				<ele>22.680474928822964</ele>
+				<time>2016-10-08T14:29:29.998Z</time>
+			</trkpt>
+			<trkpt lat="30.50942376" lon="114.39084269">
+				<time>2016-10-08T14:29:35.855Z</time>
+			</trkpt>
+			<trkpt lat="30.50952849" lon="114.39071141">
+				<ele>22.220417551007717</ele>
+				<time>2016-10-08T14:29:41.712Z</time>
+			</trkpt>
+			<trkpt lat="30.50954288" lon="114.39058256">
+				<time>2016-10-08T14:29:47.569Z</time>
+			</trkpt>
+			<trkpt lat="30.50954288" lon="114.39058256">
+				<ele>-365.6227803907724</ele>
+				<time>2016-10-08T14:29:53.426Z</time>
+			</trkpt>
+			<trkpt lat="30.50960696" lon="114.39045956">
+				<ele>21.858590773549526</ele>
+				<time>2016-10-08T14:29:59.283Z</time>
+			</trkpt>
+			<trkpt lat="30.50963443" lon="114.39034966">
+				<ele>21.896427086797207</ele>
+				<time>2016-10-08T14:30:05.140Z</time>
+			</trkpt>
+			<trkpt lat="30.50967498" lon="114.39025123">
+				<ele>21.858590773549526</ele>
+				<time>2016-10-08T14:30:10.998Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
